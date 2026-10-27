@@ -68,3 +68,9 @@ python3 tools/playlist.py --check
 ```
 
 After editing, regenerate the playlist, run the checks, commit and push with an account permitted to update this repository. Verify the published playlist and MP4 after each change. Keep `playlist.json` and the referenced video bytes consistent so checksum validation succeeds.
+
+## KarnarOs 0.3.2 mixed image/video catalog
+
+`playlist-v2.json` contains the existing Stillwater MP4 plus ten licensed, photographer-credited nature images and independent 384 × 216 JPEG thumbnails. KarnarOs 0.3.2 uses this version 2 catalog; older installations keep the original video-only `playlist.json`. Existing file paths, hashes and URLs are unchanged. Static image wallpapers require no video decoding.
+
+See [NATURE_CREDITS.md](NATURE_CREDITS.md) for exact original photo pages, authors, Unsplash reuse rights, crop decisions and preparation commands. Photographs use the Unsplash License and are excluded from this repository’s MIT software licence. `nature-manifest.json` records all image/thumbnail checksums and byte lengths. `tools/playlist-v2.py --check` validates the mixed catalog locally; the original `tools/playlist.py --check` still validates the legacy video catalog.

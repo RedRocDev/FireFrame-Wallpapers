@@ -1,0 +1,428 @@
+{
+  "preparedFor": "KarnarOs 0.3.2",
+  "sourceReviewDate": "2026-10-27",
+  "encoding": "JPEG 86 / 4:2:0 progressive; thumbnail JPEG 78 / 4:2:0 progressive",
+  "crop": "ImageOps.fit Lanczos 16:9; no stretching; EXIF orientation applied",
+  "wallpapers": [
+    {
+      "id": "mountain-lake",
+      "title": "Mountain Lake",
+      "photoId": "IWhpMyaol8c",
+      "photographer": "Jonny Gios",
+      "sourcePage": "https://unsplash.com/photos/mountain-landscape-reflected-in-a-calm-lake-IWhpMyaol8c",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1759434190960-87511b2a5e5c?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.1
+      ],
+      "sourcePixels": [
+        4000,
+        5769
+      ],
+      "sourceDownload": {
+        "bytes": 3910081,
+        "sha256": "a6a6cad29227a11c90dcea32400499db1249aaacf1a854acf3a3ae7997d71145"
+      },
+      "file": "images/mountain-lake.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 384181,
+      "sha256": "16336ee9150e06b074f81d7f2a6973651e6b4ad37aad82a44c9c2ab4af4c6584",
+      "thumbnail": {
+        "file": "thumbnails/mountain-lake.jpg",
+        "width": 384,
+        "height": 216,
+        "bytes": 17456,
+        "sha256": "f44cb455000abd8a9538f69688637dca27d8a409c2d953460fe45856cfca6185"
+      },
+      "interfaceMeanLuma": {
+        "topLeft": 121.21,
+        "topCenter": 138.76,
+        "topRight": 144.37,
+        "dock": 90.71
+      }
+    },
+    {
+      "id": "misty-forest",
+      "title": "Misty Forest",
+      "photoId": "mvby_QPxVxg",
+      "photographer": "Jonny Gios",
+      "sourcePage": "https://unsplash.com/photos/misty-forest-landscape-with-silhouetted-trees-mvby_QPxVxg",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1759434188758-194121b6169b?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ],
+      "sourcePixels": [
+        4000,
+        2667
+      ],
+      "sourceDownload": {
+        "bytes": 1275205,
+        "sha256": "3b0549514a534732b7b575974e1be370ea8e602c379b1d2454eceb400f122b32"
+      },
+      "file": "images/misty-forest.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 239021,
+      "sha256": "2253ac0d1778a8bf887c96ec053fb59116e73d3b279e558db16c8dbd3ec9b291",
+      "thumbnail": {
+        "file": "thumbnails/misty-forest.jpg",
+        "width": 384,
+        "height": 216,
+        "bytes": 10964,
+        "sha256": "6f1f44b5846765bdc42631acb26745c86bfd9c3b656145706b4e6b06e9463303"
+      },
+      "interfaceMeanLuma": {
+        "topLeft": 142.62,
+        "topCenter": 100.24,
+        "topRight": 84.25,
+        "dock": 76.85
+      }
+    },
+    {
+      "id": "iceland-waterfall",
+      "title": "Iceland Waterfall",
+      "photoId": "c_iGQ5U2r6w",
+      "photographer": "Arthur Ogleznev",
+      "sourcePage": "https://unsplash.com/photos/a-waterfall-with-a-river-running-under-it-c_iGQ5U2r6w",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1694734479942-8cc7f4660578?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.4
+      ],
+      "sourcePixels": [
+        3962,
+        5943
+      ],
+      "sourceDownload": {
+        "bytes": 8398812,
+        "sha256": "4953af90d994ccc7014ea4bbe5aafa2a55d5c37099d408facda0cd28fd0050c8"
+      },
+      "file": "images/iceland-waterfall.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 472457,
+      "sha256": "616d9323099d7a77ef59cd540ec33cdb501067126113c2db99178660cdb32bc9",
+      "thumbnail": {
+        "file": "thumbnails/iceland-waterfall.jpg",
+        "width": 384,
+        "height": 216,
+        "bytes": 17788,
+        "sha256": "5234c6c45cf4e3fc2f9d0a63153017ce49e7a43a90de026d48e0643cf26aaed9"
+      },
+      "interfaceMeanLuma": {
+        "topLeft": 57.79,
+        "topCenter": 129.6,
+        "topRight": 218.65,
+        "dock": 60.04
+      }
+    },
+    {
+      "id": "tropical-beach",
+      "title": "Tropical Beach",
+      "photoId": "slj5hTTA8uM",
+      "photographer": "Colin Watts",
+      "sourcePage": "https://unsplash.com/photos/a-tropical-beach-with-palm-trees-and-clear-water-slj5hTTA8uM",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1734362849279-00f00f92430e?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ],
+      "sourcePixels": [
+        4000,
+        2676
+      ],
+      "sourceDownload": {
+        "bytes": 2406286,
+        "sha256": "adeb41a805577da65b95a93babfbec2027602996aed3b0dc25dd24b3a996ae08"
+      },
+      "file": "images/tropical-beach.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 448182,
+      "sha256": "ffce9589fef3b2441ad337899a896b3705b99b2aa0b629b28ad20bae7f9c4481",
+      "thumbnail": {
+        "file": "thumbnails/tropical-beach.jpg",
+        "width": 384,
+        "height": 216,
+        "bytes": 18510,
+        "sha256": "e373109dae12c978e4dd4d093926f88b0d2547af4a71b651404f11b429654530"
+      },
+      "interfaceMeanLuma": {
+        "topLeft": 61.78,
+        "topCenter": 88.64,
+        "topRight": 157.73,
+        "dock": 185.67
+      }
+    },
+    {
+      "id": "northern-lights",
+      "title": "Northern Lights",
+      "photoId": "XXX2uavaR38",
+      "photographer": "Rafael Peier",
+      "sourcePage": "https://unsplash.com/photos/northern-lights-illuminate-a-starry-sky-over-snowy-mountains-XXX2uavaR38",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1780678839895-5db70630e0ff?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ],
+      "sourcePixels": [
+        4000,
+        2668
+      ],
+      "sourceDownload": {
+        "bytes": 4448743,
+        "sha256": "0011b6ee9777cf41987a7d9ee1c4f681dd9ab12b7ca21c7b16e26cdb4850cade"
+      },
+      "file": "images/northern-lights.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 459691,
+      "sha256": "838caad0a5f4340a21dad0a770e16563dd2056a48382521610aadd51ff08a04f",
+      "thumbnail": {
+        "file": "thumbnails/northern-lights.jpg",
+        "width": 384,
+        "height": 216,
+        "bytes": 10645,
+        "sha256": "b0889a3cd558658b1cec857606db552ef1670004dd37a833ebc21d7195c08620"
+      },
+      "interfaceMeanLuma": {
+        "topLeft": 28.96,
+        "topCenter": 42.49,
+        "topRight": 71.12,
+        "dock": 27.0
+      }
+    },
+    {
+      "id": "snowy-mountains",
+      "title": "Snowy Mountains",
+      "photoId": "cCjUaIo1m50",
+      "photographer": "Michiel Annaert",
+      "sourcePage": "https://unsplash.com/photos/a-snowy-mountain-range-cCjUaIo1m50",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1662622843760-75ebb0d900d4?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ],
+      "sourcePixels": [
+        4000,
+        2667
+      ],
+      "sourceDownload": {
+        "bytes": 1796789,
+        "sha256": "650169aa38eb898e65d2d383859c2e513794864dc28444e3748de6778bf40254"
+      },
+      "file": "images/snowy-mountains.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 217615,
+      "sha256": "c5c122d7e9fe7bd92a427827d2d86092f46b146a07d08c73557c152f24f8b259",
+      "thumbnail": {
+        "file": "thumbnails/snowy-mountains.jpg",
+        "width": 384,
+        "height": 216,
+        "bytes": 9233,
+        "sha256": "7c660ce372d6fe3949dfcac53d0bb4aed16afb0df3fc8338f0fa1a4fed28abd4"
+      },
+      "interfaceMeanLuma": {
+        "topLeft": 117.22,
+        "topCenter": 126.07,
+        "topRight": 115.55,
+        "dock": 62.32
+      }
+    },
+    {
+      "id": "autumn-woodland",
+      "title": "Autumn Woodland",
+      "photoId": "H3_GQYwcyH8",
+      "photographer": "Johannes Plenio",
+      "sourcePage": "https://unsplash.com/photos/autumn-trees-H3_GQYwcyH8",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/flagged/photo-1552863477-7dc7069090c8?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ],
+      "sourcePixels": [
+        4000,
+        2667
+      ],
+      "sourceDownload": {
+        "bytes": 6095017,
+        "sha256": "d00a0856441f78f8b06bc1397d204e68b2456cb5a4bd029b3e520fd0bc3c877f"
+      },
+      "file": "images/autumn-woodland.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 961743,
+      "sha256": "9038b2eacbd2889dce646333f95e119ea30c2734b8f0871e6bed62375bfd903f",
+      "thumbnail": {
+        "file": "thumbnails/autumn-woodland.jpg",
+        "width": 384,
+        "height": 216,
+        "bytes": 30383,
+        "sha256": "1e43bce29e4a804cdc990a31209f59c69d092b00922304ee5accdf16628b3914"
+      },
+      "interfaceMeanLuma": {
+        "topLeft": 156.53,
+        "topCenter": 179.87,
+        "topRight": 229.18,
+        "dock": 65.78
+      }
+    },
+    {
+      "id": "lavender-sunset",
+      "title": "Lavender Sunset",
+      "photoId": "c1Jp-fo53U8",
+      "photographer": "Léonard Cotte",
+      "sourcePage": "https://unsplash.com/photos/lavender-field-c1Jp-fo53U8",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1499002238440-d264edd596ec?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ],
+      "sourcePixels": [
+        4000,
+        2667
+      ],
+      "sourceDownload": {
+        "bytes": 3340877,
+        "sha256": "25571e377da2b5b0a1ed5ba2ea672936c76f53b6590f86f9c0a049bcb9da81da"
+      },
+      "file": "images/lavender-sunset.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 656149,
+      "sha256": "ec5fab11927694285a53f21f3d0fc1de492dd05ad8ebc4db6911b0526c5a15a8",
+      "thumbnail": {
+        "file": "thumbnails/lavender-sunset.jpg",
+        "width": 384,
+        "height": 216,
+        "bytes": 24241,
+        "sha256": "c84068e646bbf31b01a18ce2671d6cd1f8d791f22c8a1deda715b2ab17607bc5"
+      },
+      "interfaceMeanLuma": {
+        "topLeft": 209.71,
+        "topCenter": 211.39,
+        "topRight": 224.85,
+        "dock": 46.29
+      }
+    },
+    {
+      "id": "desert-dunes",
+      "title": "Desert Dunes",
+      "photoId": "gpX3TRNDf4E",
+      "photographer": "Jules Bassoleil",
+      "sourcePage": "https://unsplash.com/photos/a-desert-landscape-with-sand-dunes-gpX3TRNDf4E",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1652439519257-aa45f34758ce?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ],
+      "sourcePixels": [
+        4000,
+        6400
+      ],
+      "sourceDownload": {
+        "bytes": 5575111,
+        "sha256": "8cd4523e2fb926dcf2929cab76023fa261250ee7766522c8da38f9c4bc6d4455"
+      },
+      "file": "images/desert-dunes.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 191280,
+      "sha256": "2a44dba4c6db8bdbc2c66ab41ee63be58caef55116f8dabcf7003e404012a982",
+      "thumbnail": {
+        "file": "thumbnails/desert-dunes.jpg",
+        "width": 384,
+        "height": 216,
+        "bytes": 8750,
+        "sha256": "3bac45e50c1c89f64905055420d6455cf14333a1413a7c8f31b45e1aeb9dd86b"
+      },
+      "interfaceMeanLuma": {
+        "topLeft": 174.49,
+        "topCenter": 131.1,
+        "topRight": 112.44,
+        "dock": 153.48
+      }
+    },
+    {
+      "id": "coastal-cliffs",
+      "title": "Coastal Cliffs",
+      "photoId": "aG5eXfboJzk",
+      "photographer": "Kamsin Kaneko",
+      "sourcePage": "https://unsplash.com/photos/coastal-cliffs-overlooking-a-calm-blue-ocean-bay-aG5eXfboJzk",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1757392294232-274ea574dc17?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ],
+      "sourcePixels": [
+        4000,
+        2667
+      ],
+      "sourceDownload": {
+        "bytes": 3388240,
+        "sha256": "de74579925d996eddc68937cae0c371979c5b36f64c389017752cc3b4028670c"
+      },
+      "file": "images/coastal-cliffs.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 543365,
+      "sha256": "e3e276624a370d4dbc6830eaf86e5787b1bc6b7f936eda30ea168c760d4bd2b5",
+      "thumbnail": {
+        "file": "thumbnails/coastal-cliffs.jpg",
+        "width": 384,
+        "height": 216,
+        "bytes": 18189,
+        "sha256": "695c81ec5813c860a14bc890c4f51f975f623f215b61be4a48ee2ab465d91413"
+      },
+      "interfaceMeanLuma": {
+        "topLeft": 140.55,
+        "topCenter": 181.76,
+        "topRight": 202.88,
+        "dock": 115.65
+      }
+    }
+  ]
+}

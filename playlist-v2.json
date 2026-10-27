@@ -1,0 +1,178 @@
+{
+  "version": 2,
+  "wallpapers": [
+    {
+      "id": "stillwater",
+      "title": "Stillwater",
+      "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/videos/stillwater.mp4",
+      "sha256": "1ca80bf97e8f1805df464a5a7b503407fda7398c6437108c77519d7209d4a640",
+      "bytes": 954760,
+      "type": "video",
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/thumbnails/stillwater.jpg",
+        "sha256": "2093ec610993b95e15967b00a255564f62c43ec20fe329f2aa051783dea095a3",
+        "bytes": 1580
+      }
+    },
+    {
+      "id": "mountain-lake",
+      "title": "Mountain Lake",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/images/mountain-lake.jpg",
+      "sha256": "16336ee9150e06b074f81d7f2a6973651e6b4ad37aad82a44c9c2ab4af4c6584",
+      "bytes": 384181,
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/thumbnails/mountain-lake.jpg",
+        "sha256": "f44cb455000abd8a9538f69688637dca27d8a409c2d953460fe45856cfca6185",
+        "bytes": 17456
+      },
+      "photographer": "Jonny Gios",
+      "sourcePage": "https://unsplash.com/photos/mountain-landscape-reflected-in-a-calm-lake-IWhpMyaol8c",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "id": "misty-forest",
+      "title": "Misty Forest",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/images/misty-forest.jpg",
+      "sha256": "2253ac0d1778a8bf887c96ec053fb59116e73d3b279e558db16c8dbd3ec9b291",
+      "bytes": 239021,
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/thumbnails/misty-forest.jpg",
+        "sha256": "6f1f44b5846765bdc42631acb26745c86bfd9c3b656145706b4e6b06e9463303",
+        "bytes": 10964
+      },
+      "photographer": "Jonny Gios",
+      "sourcePage": "https://unsplash.com/photos/misty-forest-landscape-with-silhouetted-trees-mvby_QPxVxg",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "id": "iceland-waterfall",
+      "title": "Iceland Waterfall",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/images/iceland-waterfall.jpg",
+      "sha256": "616d9323099d7a77ef59cd540ec33cdb501067126113c2db99178660cdb32bc9",
+      "bytes": 472457,
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/thumbnails/iceland-waterfall.jpg",
+        "sha256": "5234c6c45cf4e3fc2f9d0a63153017ce49e7a43a90de026d48e0643cf26aaed9",
+        "bytes": 17788
+      },
+      "photographer": "Arthur Ogleznev",
+      "sourcePage": "https://unsplash.com/photos/a-waterfall-with-a-river-running-under-it-c_iGQ5U2r6w",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "id": "tropical-beach",
+      "title": "Tropical Beach",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/images/tropical-beach.jpg",
+      "sha256": "ffce9589fef3b2441ad337899a896b3705b99b2aa0b629b28ad20bae7f9c4481",
+      "bytes": 448182,
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/thumbnails/tropical-beach.jpg",
+        "sha256": "e373109dae12c978e4dd4d093926f88b0d2547af4a71b651404f11b429654530",
+        "bytes": 18510
+      },
+      "photographer": "Colin Watts",
+      "sourcePage": "https://unsplash.com/photos/a-tropical-beach-with-palm-trees-and-clear-water-slj5hTTA8uM",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "id": "northern-lights",
+      "title": "Northern Lights",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/images/northern-lights.jpg",
+      "sha256": "838caad0a5f4340a21dad0a770e16563dd2056a48382521610aadd51ff08a04f",
+      "bytes": 459691,
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/thumbnails/northern-lights.jpg",
+        "sha256": "b0889a3cd558658b1cec857606db552ef1670004dd37a833ebc21d7195c08620",
+        "bytes": 10645
+      },
+      "photographer": "Rafael Peier",
+      "sourcePage": "https://unsplash.com/photos/northern-lights-illuminate-a-starry-sky-over-snowy-mountains-XXX2uavaR38",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "id": "snowy-mountains",
+      "title": "Snowy Mountains",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/images/snowy-mountains.jpg",
+      "sha256": "c5c122d7e9fe7bd92a427827d2d86092f46b146a07d08c73557c152f24f8b259",
+      "bytes": 217615,
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/thumbnails/snowy-mountains.jpg",
+        "sha256": "7c660ce372d6fe3949dfcac53d0bb4aed16afb0df3fc8338f0fa1a4fed28abd4",
+        "bytes": 9233
+      },
+      "photographer": "Michiel Annaert",
+      "sourcePage": "https://unsplash.com/photos/a-snowy-mountain-range-cCjUaIo1m50",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "id": "autumn-woodland",
+      "title": "Autumn Woodland",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/images/autumn-woodland.jpg",
+      "sha256": "9038b2eacbd2889dce646333f95e119ea30c2734b8f0871e6bed62375bfd903f",
+      "bytes": 961743,
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/thumbnails/autumn-woodland.jpg",
+        "sha256": "1e43bce29e4a804cdc990a31209f59c69d092b00922304ee5accdf16628b3914",
+        "bytes": 30383
+      },
+      "photographer": "Johannes Plenio",
+      "sourcePage": "https://unsplash.com/photos/autumn-trees-H3_GQYwcyH8",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "id": "lavender-sunset",
+      "title": "Lavender Sunset",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/images/lavender-sunset.jpg",
+      "sha256": "ec5fab11927694285a53f21f3d0fc1de492dd05ad8ebc4db6911b0526c5a15a8",
+      "bytes": 656149,
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/thumbnails/lavender-sunset.jpg",
+        "sha256": "c84068e646bbf31b01a18ce2671d6cd1f8d791f22c8a1deda715b2ab17607bc5",
+        "bytes": 24241
+      },
+      "photographer": "Léonard Cotte",
+      "sourcePage": "https://unsplash.com/photos/lavender-field-c1Jp-fo53U8",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "id": "desert-dunes",
+      "title": "Desert Dunes",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/images/desert-dunes.jpg",
+      "sha256": "2a44dba4c6db8bdbc2c66ab41ee63be58caef55116f8dabcf7003e404012a982",
+      "bytes": 191280,
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/thumbnails/desert-dunes.jpg",
+        "sha256": "3bac45e50c1c89f64905055420d6455cf14333a1413a7c8f31b45e1aeb9dd86b",
+        "bytes": 8750
+      },
+      "photographer": "Jules Bassoleil",
+      "sourcePage": "https://unsplash.com/photos/a-desert-landscape-with-sand-dunes-gpX3TRNDf4E",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "id": "coastal-cliffs",
+      "title": "Coastal Cliffs",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/images/coastal-cliffs.jpg",
+      "sha256": "e3e276624a370d4dbc6830eaf86e5787b1bc6b7f936eda30ea168c760d4bd2b5",
+      "bytes": 543365,
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/thumbnails/coastal-cliffs.jpg",
+        "sha256": "695c81ec5813c860a14bc890c4f51f975f623f215b61be4a48ee2ab465d91413",
+        "bytes": 18189
+      },
+      "photographer": "Kamsin Kaneko",
+      "sourcePage": "https://unsplash.com/photos/coastal-cliffs-overlooking-a-calm-blue-ocean-bay-aG5eXfboJzk",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  ]
+}

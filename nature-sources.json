@@ -1,0 +1,167 @@
+{
+  "reviewedOn": "2026-10-27",
+  "licenseUrl": "https://unsplash.com/license",
+  "licenseScope": "Download, copy, modify, distribute and use, including commercially; no sale without significant modification and no competing image service.",
+  "photos": [
+    {
+      "id": "mountain-lake",
+      "title": "Mountain Lake",
+      "photoId": "IWhpMyaol8c",
+      "photographer": "Jonny Gios",
+      "sourcePage": "https://unsplash.com/photos/mountain-landscape-reflected-in-a-calm-lake-IWhpMyaol8c",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1759434190960-87511b2a5e5c?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.1
+      ]
+    },
+    {
+      "id": "misty-forest",
+      "title": "Misty Forest",
+      "photoId": "mvby_QPxVxg",
+      "photographer": "Jonny Gios",
+      "sourcePage": "https://unsplash.com/photos/misty-forest-landscape-with-silhouetted-trees-mvby_QPxVxg",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1759434188758-194121b6169b?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "iceland-waterfall",
+      "title": "Iceland Waterfall",
+      "photoId": "c_iGQ5U2r6w",
+      "photographer": "Arthur Ogleznev",
+      "sourcePage": "https://unsplash.com/photos/a-waterfall-with-a-river-running-under-it-c_iGQ5U2r6w",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1694734479942-8cc7f4660578?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.4
+      ]
+    },
+    {
+      "id": "tropical-beach",
+      "title": "Tropical Beach",
+      "photoId": "slj5hTTA8uM",
+      "photographer": "Colin Watts",
+      "sourcePage": "https://unsplash.com/photos/a-tropical-beach-with-palm-trees-and-clear-water-slj5hTTA8uM",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1734362849279-00f00f92430e?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "northern-lights",
+      "title": "Northern Lights",
+      "photoId": "XXX2uavaR38",
+      "photographer": "Rafael Peier",
+      "sourcePage": "https://unsplash.com/photos/northern-lights-illuminate-a-starry-sky-over-snowy-mountains-XXX2uavaR38",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1780678839895-5db70630e0ff?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "snowy-mountains",
+      "title": "Snowy Mountains",
+      "photoId": "cCjUaIo1m50",
+      "photographer": "Michiel Annaert",
+      "sourcePage": "https://unsplash.com/photos/a-snowy-mountain-range-cCjUaIo1m50",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1662622843760-75ebb0d900d4?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "autumn-woodland",
+      "title": "Autumn Woodland",
+      "photoId": "H3_GQYwcyH8",
+      "photographer": "Johannes Plenio",
+      "sourcePage": "https://unsplash.com/photos/autumn-trees-H3_GQYwcyH8",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/flagged/photo-1552863477-7dc7069090c8?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "lavender-sunset",
+      "title": "Lavender Sunset",
+      "photoId": "c1Jp-fo53U8",
+      "photographer": "Léonard Cotte",
+      "sourcePage": "https://unsplash.com/photos/lavender-field-c1Jp-fo53U8",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1499002238440-d264edd596ec?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "desert-dunes",
+      "title": "Desert Dunes",
+      "photoId": "gpX3TRNDf4E",
+      "photographer": "Jules Bassoleil",
+      "sourcePage": "https://unsplash.com/photos/a-desert-landscape-with-sand-dunes-gpX3TRNDf4E",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1652439519257-aa45f34758ce?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "coastal-cliffs",
+      "title": "Coastal Cliffs",
+      "photoId": "aG5eXfboJzk",
+      "photographer": "Kamsin Kaneko",
+      "sourcePage": "https://unsplash.com/photos/coastal-cliffs-overlooking-a-calm-blue-ocean-bay-aG5eXfboJzk",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "rightsVerified": true,
+      "rightsEvidence": "Exact source-photo page identifies photographer and links Free to use under the Unsplash License.",
+      "downloadUrl": "https://images.unsplash.com/photo-1757392294232-274ea574dc17?fm=jpg&q=95&w=4000&fit=max",
+      "cropCenter": [
+        0.5,
+        0.5
+      ]
+    }
+  ]
+}
