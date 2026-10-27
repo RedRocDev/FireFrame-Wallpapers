@@ -49,6 +49,14 @@ python3 tools/playlist.py --check
 
 Encoding output can differ between FFmpeg versions. Always regenerate the checksum and byte length after changing the binary.
 
+## Future public video hosting
+
+The JSON playlist can stay on GitHub while future MP4 files live on a public HTTPS video host. FireFrame versions with **Trusted video hosts** in Settings require each exact external hostname to be added manually; the external host list starts empty. Trust does not extend to subdomains or redirect hosts automatically. Use stable, public HTTPS `.mp4` URLs with no embedded credentials, query strings, expiring signatures or custom ports. Each entry still needs the exact byte length and SHA-256 checksum. A downloaded playlist cannot grant trust to a hostname.
+
+Wasabi or another public object store can be considered later. **No Wasabi bucket has been provisioned, no external video host is configured by this repository, and the current Stillwater video is served by GitHub.**
+
+`tools/playlist.py` currently reads a local-file `catalog.json` and generates GitHub raw video URLs. It does not provision storage, upload videos to external hosts or generate external-host entries. A future external-host playlist must be prepared separately or use an updated generator; the current `--check` command verifies the local GitHub-generated playlist and will reject manual URL changes. Keep the original licensed video bytes, checksum and size together when moving a video.
+
 ## Publish updates
 
 Every committed file in this repository is public. Verify ownership and licensing before adding media. Clone the existing repository rather than creating a second one:
