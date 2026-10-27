@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "wallpapers": [
+    {
+      "id": "stillwater",
+      "title": "Stillwater",
+      "url": "https://raw.githubusercontent.com/RedRocDev/FireFrame-Wallpapers/main/videos/stillwater.mp4",
+      "sha256": "1ca80bf97e8f1805df464a5a7b503407fda7398c6437108c77519d7209d4a640",
+      "bytes": 954760
+    }
+  ]
+}

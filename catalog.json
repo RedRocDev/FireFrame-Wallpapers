@@ -1,0 +1,11 @@
+{
+  "wallpapers": [
+    {
+      "id": "stillwater",
+      "title": "Stillwater",
+      "file": "videos/stillwater.mp4",
+      "credit": "FireFrame original procedural artwork",
+      "license": "MIT"
+    }
+  ]
+}
